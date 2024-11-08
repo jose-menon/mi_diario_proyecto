@@ -1,1 +1,1 @@
-dia 3: estoy entendiendo como funcionan las ramas en git.
+dia 4: practique haciendo un git push para subir los cambio a github
