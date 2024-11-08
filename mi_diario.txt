@@ -1,1 +1,1 @@
-dia 2: hoy aprendi sobre el comando git add y git commit. 
+dia 3: estoy entendiendo como funcionan las ramas en git.
