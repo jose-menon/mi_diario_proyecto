@@ -1,1 +1,1 @@
-dia 1: hoy empiezo mi diario con git
+dia 2: hoy aprendi sobre el comando git add y git commit. 
